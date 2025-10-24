@@ -1,8 +1,14 @@
 public class HelloWorld {
+private String test;
+
+
+
 
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+    String test="test";
+        System.out.println(test);
+
     }
 
 }
